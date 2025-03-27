@@ -71,4 +71,4 @@ Contribuições são bem-vindas! Se você tiver sugestões, melhorias ou correç
 
 Contato
 
-Se você tiver dúvidas ou quiser conversar mais sobre os projetos ou o programa START, me encontre no LinkedIn: linkedin.com/in/okvictorhugo ou envie um email para: contatovictorhugosoares@gmail.com.
+Se você tiver dúvidas ou quiser conversar mais sobre os projetos ou o programa START, me encontre no LinkedIn: www.linkedin.com/in/okvictorhugo ou envie um email para: contatovictorhugosoares@gmail.com.
