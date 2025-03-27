@@ -49,7 +49,7 @@ Abaixo estão os projetos desenvolvidos em cada uma das trilhas:
 Para rodar os projetos localmente, siga os seguintes passos:
 
 Clone o repositório se desejar:
-   bash
+  `` bash
    git clone https://github.com/okvictorhugo/java-capgemini.git
 
    Entre na pasta do projeto:
